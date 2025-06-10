@@ -1,0 +1,190 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ben Walker",
+    "label": "Software Engineer",
+    "email": "ben.walker.dev@gmail.com",
+    "summary": "A hard-working, analytical computer scientist with over a decade of experience who values leadership, ingenuity, diligence, and education.  The best things in life are great documentation, easy-to-use software, and easy-to-work-with people.",
+    "location": {
+      "city": "Portland",
+      "region": "OR",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ben-walker-45044340",
+        "url": "https://www.linkedin.com/in/ben-walker-45044340/"
+      },
+      {
+        "network": "GitHub",
+        "username": "benwalk",
+        "url": "https://github.com/benwalk"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Webflow",
+      "position": "Senior Backend Software Engineer (Access Control)",
+      "url": "https://webflow.com",
+      "startDate": "2024-07-01",
+      "summary": "Lead major product feature initiatives that enabled teams to collaborate within Webflow more effectively and increase adoption on the website experience platform: introduced workspaces, roles & permissions, service provider guests, and content editor specific use-cases.",
+      "skills": [
+        "NodeJS",
+        "ReactJS",
+        "TypeScript",
+        "MongoDB",
+        "Authorization"
+      ]
+    },
+    {
+      "name": "Webflow",
+      "position": "Senior Backend Software Engineer (Collaboration)",
+      "url": "https://webflow.com",
+      "startDate": "2021-04-01",
+      "endDate": "2024-06-30",
+      "summary": "Lead major product feature initiatives that enabled teams to collaborate within Webflow more effectively and increase adoption on the website experience platform: introduced workspaces, roles & permissions, service provider guests, and content editor specific use-cases.",
+      "skills": [
+        "NodeJS",
+        "ReactJS",
+        "TypeScript",
+        "MongoDB",
+        "Authorization"
+      ]
+    },
+    {
+      "company": "Simple Finance",
+      "website": "http://simple.com/",
+      "position": "Senior Backend Engineer",
+      "startDate": "2019-09-30",
+      "endDate": "2021-03-30",
+      "summary": "Fostered development and cross-team collaboration on backend microservices, with an emphasis on leadership, mentorship, and being a force-multiplier for the team. Architected and launched a solution with a 3rd-party integration for digital direct deposit, before taking a deep dive into Simple's infrastructure to build out a new self-service oriented infrastructure platform designed to reduce overhead of maintaining legacy home-grown infrastructure tooling and drive the Engineering organization towards more modern dev ops practices.",
+      "skills": [
+        "Scala",
+        "Java",
+        "AWS RDS PostgreSQL",
+        "Concourse",
+        "GitHub Actions",
+        "Terraform",
+        "BOSH",
+        "Cloud Foundry"
+      ]
+    },
+    {
+      "company": "Simple Finance",
+      "website": "http://simple.com/",
+      "position": "Backend Engineer",
+      "startDate": "2018-04-30",
+      "endDate": "2019-09-30",
+      "summary": "Developed and maintained backend microservices (Scala, Java, with AWS RDS PostgreSQL), contributing to company wide initiatives around one of Simple's key product features (protected accounts and savings tools). Lead architectural changes for the same products, and stewarded the adoption of Jira and agile based workflows.",
+      "highlights": [],
+      "skills": [
+        "Scala",
+        "Java",
+        "AWS RDS PostgreSQL"
+      ]
+    },
+    {
+      "company": "Jive Software",
+      "website": "http://jivesoftware.com/",
+      "position": "Software Engineer (Backend Java)",
+      "startDate": "2017-06-30",
+      "endDate": "2018-03-31",
+      "summary": "Focused on developing the Jive platform (Java, Spring, Struts 2) and related components of Jive’s next-generation architecture, including microservices (built with Dropwizard, Guice, Hystrix, JUnit, and ReactJS) that leverage AWS offerings (S3, RDS, DynamoDB). Practiced Agile (Scrum) and continuous integration (Git, Stash, Jenkins) development methodologies.",
+      "highlights": [],
+      "skills": [
+        "Java",
+        "Spring",
+        "Apache",
+        "Struts 2",
+        "Dropwizard",
+        "Maven"
+      ]
+    },
+    {
+      "company": "Jive Software",
+      "website": "http://jivesoftware.com/",
+      "position": "Software Engineer (Tools)",
+      "startDate": "2014-05-31",
+      "endDate": "2017-06-30",
+      "summary": "Focused on developing customizations to the Jive platform using the Jive plugin framework.  Built a microservice to support plugin and add-on customizations using full Javascript stack that integrated with 3rd party applications such as Salesforce, JIRA, and PagerDuty.  Practiced continuous integration development and was responsible for product management and project management for these tools.",
+      "highlights": [],
+      "skills": [
+        "Java",
+        "Spring",
+        "Apache",
+        "Struts 2",
+        "Dropwizard",
+        "Maven",
+        "NodeJS",
+        "MongoDB",
+        "Bootstrap"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Portland",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2008-08-31",
+      "endDate": "2012-04-30",
+      "gpa": ""
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Extracting Episodic Memory Feature Relevance Without Domain Knowledge",
+      "publisher": "BICA 2011",
+      "releaseDate": "2011-12-31",
+      "website": "http://faculty.up.edu/nuxoll/pubs/WalkerEtAl_BICA_ver09.pdf",
+      "summary": "Episodic memory provides many important capabilities to a cognitive architecture. One of the challenges of creating a general episodic memory system is to be effective when given no information about the agent's task. In this paper, we present an effective algorithm for detecting the relevance of the features of episodic memories while only being told when an agent completes a goal. We demonstrate this algorithm using an episodic learning agent in a task that provides the agent with a mix of relevant and irrelevant features. The episodic learner outperforms a variant Q-Learning algorithm that has proven effective in the past."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Board Games",
+      "keywords": [
+        "Heavy Strategy",
+        "Minis-on-a-map",
+        "Space Opera",
+        "Thematic",
+        "Worker Placement"
+      ]
+    },
+    {
+      "name": "Bicycling",
+      "keywords": [
+        "Fixed gear",
+        "Single speed",
+        "Three speed Sturmey Archer"
+      ]
+    },
+    {
+      "name": "Building Science",
+      "keywords": [
+        "Electrical",
+        "Framing",
+        "Green",
+        "HVAC",
+        "Insulation",
+        "Plumbing",
+        "Residential"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Hadas Cassorla, JD, MBA, CISSP",
+      "reference": "Ben is one of the most thoughtful people I have ever worked with. He thinks about the impact his actions have on himself (makes sure he is growing), on his team (makes sure he is doing the things that support them best), the company (making sure he is working on the right priorities in the most beneficial way) and the customers (he really gets how what he does impacts the users). Ben likes to learn and grow and is organized, responsible and a wonderful glue to a team. \nIf it is something he is interested in, I think Ben would also be amazing at management. But, really, he's probably good at whatever he sets his mind to doing."
+    },
+    {
+      "name": "Patrick Stoneburner",
+      "reference": "Ben was one my most reliable and low maintenance engineers that I managed. I worked with him as a colleague first, and was super impressed by his technical abilities and his instincts in tackling technical problems and bugs. When I managed him, under tough times at our company, he continued to grow into a fantastic backend engineer. He would serve well on any team where there is a need for an engineer that doesn't get rattled, and a need for someone that has an ever growing understanding of software engineering concepts and principals."
+    }
+  ],
+  "projects": []
+}
