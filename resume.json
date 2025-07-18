@@ -29,7 +29,7 @@
       "position": "Senior Backend Software Engineer (Access Control)",
       "url": "https://webflow.com",
       "startDate": "2024-07-01",
-      "summary": "Lead major product feature initiatives that enabled teams to collaborate within Webflow more effectively and increase adoption on the website experience platform: introduced workspaces, roles & permissions, service provider guests, and content editor specific use-cases.",
+      "summary": "Collaborating across the org to introduce new access control related product features (such as custom RBAC); leading effective software delivery on a new team; documenting and evangelizing access control best practices for all teams at Webflow.",
       "skills": [
         "NodeJS",
         "ReactJS",
@@ -88,7 +88,7 @@
     {
       "company": "Jive Software",
       "website": "http://jivesoftware.com/",
-      "position": "Software Engineer (Backend Java)",
+      "position": "Software Engineer (Backend)",
       "startDate": "2017-06-30",
       "endDate": "2018-03-31",
       "summary": "Focused on developing the Jive platform (Java, Spring, Struts 2) and related components of Jive’s next-generation architecture, including microservices (built with Dropwizard, Guice, Hystrix, JUnit, and ReactJS) that leverage AWS offerings (S3, RDS, DynamoDB). Practiced Agile (Scrum) and continuous integration (Git, Stash, Jenkins) development methodologies.",
